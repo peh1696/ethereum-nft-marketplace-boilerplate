@@ -1,6 +1,6 @@
 export const networkCollections = {
   "0x13881": [
-    //Add Your Collections here
+    //polygon mumbai collections
     {
       image:
         "https://lh3.googleusercontent.com/BWCni9INm--eqCK800BbRkL10zGyflxfPwTHt4XphMSWG3XZvPx1JyGdfU9vSor8K046DJg-Q8Y4ioUlWHiCZqgR_L00w4vcbA-w=s0",
@@ -14,7 +14,7 @@ export const networkCollections = {
       addrs: "0xCA34404dD8Bd6537BE76F3A51B379F8949bD7973",
     },
   ],
-
+  //eth colelctions
   "0x1": [
     {
       image:
@@ -63,6 +63,15 @@ export const networkCollections = {
         "https://lh3.googleusercontent.com/LIov33kogXOK4XZd2ESj29sqm_Hww5JSdO7AFn5wjt8xgnJJ0UpNV9yITqxra3s_LMEW1AnnrgOVB_hDpjJRA1uF4skI5Sdi_9rULi8=s0",
       name: "Cool Cats NFT",
       addrs: "0x1A92f7381B9F03921564a437210bB9396471050C",
+    },
+  ],
+  //BSC Testnet
+  "0x61": [
+    {
+      image:
+        "https://lh3.googleusercontent.com/BWCni9INm--eqCK800BbRkL10zGyflxfPwTHt4XphMSWG3XZvPx1JyGdfU9vSor8K046DJg-Q8Y4ioUlWHiCZqgR_L00w4vcbA-w=s0",
+      name: "Test Ninja",
+      addrs: "0x88624DD1c725C6A95E223170fa99ddB22E1C6DDD",
     },
   ],
 };
